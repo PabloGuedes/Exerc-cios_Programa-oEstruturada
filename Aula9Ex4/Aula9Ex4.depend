@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654089208 source:i:\pes\aula9ex4\main.cpp
+	<iostream>
+	<locale>
+

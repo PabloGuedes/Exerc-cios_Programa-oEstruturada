@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652270044 source:i:\pes\aula5ex5\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+

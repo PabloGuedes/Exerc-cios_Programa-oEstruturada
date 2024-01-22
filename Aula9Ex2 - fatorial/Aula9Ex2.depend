@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654535333 source:c:\users\rondon cell\desktop\aula9ex2\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+

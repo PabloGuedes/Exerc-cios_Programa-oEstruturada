@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653478820 source:i:\pes\aula8_ex1_struct\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+
